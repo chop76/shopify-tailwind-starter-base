@@ -141,13 +141,23 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
+        },
+        "button_iFMrKj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "image-with-text-0",
-        "image-with-text-1"
+        "image-with-text-1",
+        "button_iFMrKj"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/image_791_1714999133745-27907945-7643525-20500351_14.webp",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
